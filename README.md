@@ -17,4 +17,4 @@ If you encounter any issues or have suggestions for improvement, please don't he
 
 ## Contributors
 
-- [Shubham Chikhalkar](linkedin.com/in/shubham-chikhalkar-738066109) (@johndoe)
+- [Shubham Chikhalkar](linkedin.com/in/shubham-chikhalkar-738066109) 
