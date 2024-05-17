@@ -15,14 +15,6 @@ public class Controller {
         model.addAttribute("message", "Hello, Thymeleaf!");
         return "calculator";
     }
-    @PostMapping("/submit")
-    public String submit(@ModelAttribute InputData inputData, Model model) {
-        String userInput = inputData.getText();
-        String message = "You entered: " + userInput;
-        model.addAttribute("message", message);
-        model.addAttribute("inputData", inputData); // Add this line to re-bind inputData
-        return "calculator";
-    }
     @PostMapping("/calculate")
     public String calculate(
             @RequestParam("num1") BigInteger num1,
