@@ -13,7 +13,7 @@ Because ordinary math is just not enough!
 
 ## Support & Feedback
 
-If you encounter any issues or have suggestions for improvement, please don't hesitate to reach out to us at support@bigcalculatorapp.com. Your feedback is invaluable to us as we strive to make our app the best it can be!
+If you encounter any issues or have suggestions for improvement, please don't hesitate to raise a PR
 
 ## Contributors
 
